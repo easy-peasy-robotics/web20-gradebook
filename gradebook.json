@@ -87,7 +87,14 @@
   {
     "username": "albertoeto",
     "tutorials": [],
-    "assignments": [],
+    "assignments": [
+      {
+        "name": "assignment_git-albertoeto",
+        "status": ":x:",
+        "last_commit_date": "2020-10-11 23:49:01 UTC",
+        "score": 1
+      }
+    ],
     "score": 0
   },
   {
