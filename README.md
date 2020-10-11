@@ -1,1 +1,1 @@
-## Gradebook of VVV{YY} Robot {Course}
+## Gradebook of Easy Peasy Robotics at WEB20 :chart_with_upwards_trend:
