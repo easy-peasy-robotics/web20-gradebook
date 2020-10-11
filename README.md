@@ -79,6 +79,10 @@
 
 ### [**ArekBerc**](https://github.com/ArekBerc) grade
 
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [assignment_git-ArekBerc](https://github.com/easy-peasy-robotics/assignment_git-ArekBerc) | :x: | **0** |
+
 ![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---

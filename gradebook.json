@@ -68,7 +68,14 @@
   {
     "username": "ArekBerc",
     "tutorials": [],
-    "assignments": [],
+    "assignments": [
+      {
+        "name": "assignment_git-ArekBerc",
+        "status": ":x:",
+        "last_commit_date": "2020-10-11 21:51:17 UTC",
+        "score": 1
+      }
+    ],
     "score": 0
   },
   {
