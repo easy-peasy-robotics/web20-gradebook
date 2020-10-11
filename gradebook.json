@@ -92,14 +92,7 @@
   {
     "username": "farshad-heravi",
     "tutorials": [],
-    "assignments": [
-      {
-        "name": "assignment_git-farshad-heravi",
-        "status": ":x:",
-        "last_commit_date": "",
-        "score": 1
-      }
-    ],
+    "assignments": [],
     "score": 0
   }
 ]
