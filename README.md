@@ -111,10 +111,6 @@
 
 ### [**farshad-heravi**](https://github.com/farshad-heravi) grade
 
-| assignment | status | score |
-|    :--:    |  :--:  | :--:  |
-| [assignment_git-farshad-heravi](https://github.com/easy-peasy-robotics/assignment_git-farshad-heravi) | :x: | **0** |
-
 ![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
