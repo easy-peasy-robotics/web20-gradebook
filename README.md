@@ -2,6 +2,10 @@
 
 ### [**igng**](https://github.com/igng) grade
 
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [assignment_git-igng](https://github.com/easy-peasy-robotics/assignment_git-igng) | :x: | **0** |
+
 ![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
