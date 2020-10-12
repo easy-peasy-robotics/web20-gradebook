@@ -47,7 +47,14 @@
   {
     "username": "Nosilil",
     "tutorials": [],
-    "assignments": [],
+    "assignments": [
+      {
+        "name": "assignment_git-Nosilil",
+        "status": ":x:",
+        "last_commit_date": "2020-10-12 18:45:29 UTC",
+        "score": 1
+      }
+    ],
     "score": 0
   },
   {
