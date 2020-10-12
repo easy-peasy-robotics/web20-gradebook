@@ -142,6 +142,10 @@
 
 ### [**lucarag**](https://github.com/lucarag) grade
 
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [assignment_git-lucarag](https://github.com/easy-peasy-robotics/assignment_git-lucarag) | :x: | **0** |
+
 ![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
