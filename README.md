@@ -57,9 +57,9 @@
 
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
-| [assignment_git-sigeek](https://github.com/easy-peasy-robotics/assignment_git-sigeek) | :x: | **0** |
+| [assignment_git-sigeek](https://github.com/easy-peasy-robotics/assignment_git-sigeek) | :heavy_check_mark: | **3** |
 
-![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
 
 ---
 
