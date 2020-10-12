@@ -150,3 +150,10 @@
 
 ---
 
+
+### [**khlee0697**](https://github.com/khlee0697) grade
+
+![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+
+---
+
