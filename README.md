@@ -139,3 +139,10 @@
 
 ---
 
+
+### [**lucarag**](https://github.com/lucarag) grade
+
+![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+
+---
+
