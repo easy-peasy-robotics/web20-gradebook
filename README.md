@@ -119,9 +119,9 @@
 
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
-| [assignment_git-albertoeto](https://github.com/easy-peasy-robotics/assignment_git-albertoeto) | :heavy_check_mark: | **2** |
+| [assignment_git-albertoeto](https://github.com/easy-peasy-robotics/assignment_git-albertoeto) | :heavy_check_mark: | **3** |
 
-![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
 
 ---
 
