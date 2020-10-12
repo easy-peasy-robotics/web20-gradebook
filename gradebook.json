@@ -8,7 +8,14 @@
   {
     "username": "mett96",
     "tutorials": [],
-    "assignments": [],
+    "assignments": [
+      {
+        "name": "assignment_git-mett96",
+        "status": ":x:",
+        "last_commit_date": "2020-10-12 07:08:52 UTC",
+        "score": 1
+      }
+    ],
     "score": 0
   },
   {
