@@ -51,6 +51,10 @@
 
 ### [**sigeek**](https://github.com/sigeek) grade
 
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [assignment_git-sigeek](https://github.com/easy-peasy-robotics/assignment_git-sigeek) | :x: | **0** |
+
 ![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
