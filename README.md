@@ -26,9 +26,9 @@
 
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
-| [assignment_git-wenxuanmou](https://github.com/easy-peasy-robotics/assignment_git-wenxuanmou) | :x: | **0** |
+| [assignment_git-wenxuanmou](https://github.com/easy-peasy-robotics/assignment_git-wenxuanmou) | :heavy_check_mark: | **3** |
 
-![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
 
 ---
 
