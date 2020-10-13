@@ -105,7 +105,14 @@
   {
     "username": "claudioverardo",
     "tutorials": [],
-    "assignments": [],
+    "assignments": [
+      {
+        "name": "assignment_git-claudioverardo",
+        "status": ":x:",
+        "last_commit_date": "2020-10-13 20:45:25 UTC",
+        "score": 1
+      }
+    ],
     "score": 0
   },
   {

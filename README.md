@@ -93,6 +93,10 @@
 
 ### [**claudioverardo**](https://github.com/claudioverardo) grade
 
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [assignment_git-claudioverardo](https://github.com/easy-peasy-robotics/assignment_git-claudioverardo) | :x: | **0** |
+
 ![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
