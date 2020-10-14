@@ -188,7 +188,14 @@
   {
     "username": "farshad-heravi",
     "tutorials": [],
-    "assignments": [],
-    "score": 0
+    "assignments": [
+      {
+        "name": "assignment_git-farshad-heravi",
+        "status": ":heavy_check_mark:",
+        "last_commit_date": "2020-10-14 07:24:53 UTC",
+        "score": 3
+      }
+    ],
+    "score": 3
   }
 ]
