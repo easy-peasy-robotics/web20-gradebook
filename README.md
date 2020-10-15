@@ -120,13 +120,6 @@
 ---
 
 
-### [**CesareTonola**](https://github.com/CesareTonola) grade
-
-![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
-
----
-
-
 ### [**albertoeto**](https://github.com/albertoeto) grade
 
 | assignment | status | score |
@@ -174,6 +167,20 @@
 | [assignment_git-farshad-heravi](https://github.com/easy-peasy-robotics/assignment_git-farshad-heravi) | :heavy_check_mark: | **3** |
 
 ![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
+
+---
+
+
+### [**AkashSingh123**](https://github.com/AkashSingh123) grade
+
+![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+
+---
+
+
+### [**francescosemeraro**](https://github.com/francescosemeraro) grade
+
+![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
 
