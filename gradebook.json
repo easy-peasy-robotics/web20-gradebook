@@ -208,7 +208,14 @@
   {
     "username": "francescosemeraro",
     "tutorials": [],
-    "assignments": [],
+    "assignments": [
+      {
+        "name": "assignment_git-francescosemeraro",
+        "status": ":x:",
+        "last_commit_date": "2020-10-21 09:26:38 UTC",
+        "score": 1
+      }
+    ],
     "score": 0
   }
 ]
