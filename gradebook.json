@@ -139,6 +139,12 @@
         "status": ":heavy_check_mark:",
         "last_commit_date": "2020-10-12 11:08:55 UTC",
         "score": 3
+      },
+      {
+        "name": "assignment_yarp-find-rgb-MSIhub",
+        "status": ":x:",
+        "last_commit_date": "2020-10-26 10:39:38 UTC",
+        "score": 5
       }
     ],
     "score": 4
