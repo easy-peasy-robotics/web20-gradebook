@@ -4,7 +4,12 @@
             "name": "tutorial_yarp-basics",
             "url": "https://github.com/vvv-school/tutorial_yarp-basics.git",
             "score": 1
-        }
+        },
+        {
+            "name": "tutorial_gazebo-simple-model",
+            "url": "https://github.com/vvv-school/tutorial_gazebo-simple-model.git",
+            "score": 1
+        }        
     ],
     "assignments": [
         {
