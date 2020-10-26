@@ -189,6 +189,7 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_yarp-basics-farshad-heravi](https://github.com/easy-peasy-robotics/tutorial_yarp-basics-farshad-heravi) | :heavy_check_mark: | **1** |
 | [assignment_git-farshad-heravi](https://github.com/easy-peasy-robotics/assignment_git-farshad-heravi) | :heavy_check_mark: | **3** |
+| [assignment_yarp-find-rgb-farshad-heravi](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-farshad-heravi) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-4-brightgreen.svg?style=flat-square)
 
