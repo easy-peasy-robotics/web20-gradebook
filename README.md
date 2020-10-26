@@ -45,6 +45,7 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_yarp-basics-Nosilil](https://github.com/easy-peasy-robotics/tutorial_yarp-basics-Nosilil) | :heavy_check_mark: | **1** |
 | [assignment_git-Nosilil](https://github.com/easy-peasy-robotics/assignment_git-Nosilil) | :heavy_check_mark: | **3** |
+| [assignment_yarp-find-rgb-Nosilil](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-Nosilil) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-4-brightgreen.svg?style=flat-square)
 
