@@ -270,6 +270,12 @@
         "status": ":heavy_check_mark:",
         "last_commit_date": "2020-10-12 12:05:28 UTC",
         "score": 3
+      },
+      {
+        "name": "assignment_yarp-find-rgb-albertoeto",
+        "status": ":x:",
+        "last_commit_date": "2020-10-26 10:54:43 UTC",
+        "score": 5
       }
     ],
     "score": 4
