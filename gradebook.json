@@ -260,7 +260,13 @@
   },
   {
     "username": "farshad-heravi",
-    "tutorials": [],
+    "tutorials": [
+      {
+        "name": "tutorial_yarp-basics-farshad-heravi",
+        "status": ":heavy_check_mark:",
+        "score": 1
+      }
+    ],
     "assignments": [
       {
         "name": "assignment_git-farshad-heravi",
@@ -269,7 +275,7 @@
         "score": 3
       }
     ],
-    "score": 3
+    "score": 4
   },
   {
     "username": "AkashSingh123",
