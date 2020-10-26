@@ -19,9 +19,9 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_yarp-basics-mett96](https://github.com/easy-peasy-robotics/tutorial_yarp-basics-mett96) | :heavy_check_mark: | **1** |
 | [assignment_git-mett96](https://github.com/easy-peasy-robotics/assignment_git-mett96) | :heavy_check_mark: | **3** |
-| [assignment_yarp-find-rgb-mett96](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-mett96) | :x: | **0** |
+| [assignment_yarp-find-rgb-mett96](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-mett96) | :heavy_check_mark: | **10** |
 
-![total score](https://img.shields.io/badge/total_score-4-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-14-brightgreen.svg?style=flat-square)
 
 ---
 
