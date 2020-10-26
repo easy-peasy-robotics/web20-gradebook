@@ -202,6 +202,7 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_yarp-basics-francescosemeraro](https://github.com/easy-peasy-robotics/tutorial_yarp-basics-francescosemeraro) | :heavy_check_mark: | **1** |
 | [assignment_git-francescosemeraro](https://github.com/easy-peasy-robotics/assignment_git-francescosemeraro) | :x: | **0** |
+| [assignment_yarp-find-rgb-francescosemeraro](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-francescosemeraro) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
 
