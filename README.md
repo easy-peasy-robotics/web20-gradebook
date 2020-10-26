@@ -110,6 +110,7 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_yarp-basics-claudioverardo](https://github.com/easy-peasy-robotics/tutorial_yarp-basics-claudioverardo) | :heavy_check_mark: | **1** |
 | [assignment_git-claudioverardo](https://github.com/easy-peasy-robotics/assignment_git-claudioverardo) | :heavy_check_mark: | **3** |
+| [assignment_yarp-find-rgb-claudioverardo](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-claudioverardo) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-4-brightgreen.svg?style=flat-square)
 

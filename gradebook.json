@@ -214,6 +214,12 @@
         "status": ":heavy_check_mark:",
         "last_commit_date": "2020-10-13 22:32:41 UTC",
         "score": 3
+      },
+      {
+        "name": "assignment_yarp-find-rgb-claudioverardo",
+        "status": ":x:",
+        "last_commit_date": "2020-10-26 10:39:27 UTC",
+        "score": 5
       }
     ],
     "score": 4
