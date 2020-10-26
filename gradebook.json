@@ -39,7 +39,13 @@
   },
   {
     "username": "wenxuanmou",
-    "tutorials": [],
+    "tutorials": [
+      {
+        "name": "tutorial_yarp-basics-wenxuanmou",
+        "status": ":heavy_check_mark:",
+        "score": 1
+      }
+    ],
     "assignments": [
       {
         "name": "assignment_git-wenxuanmou",
@@ -48,7 +54,7 @@
         "score": 3
       }
     ],
-    "score": 3
+    "score": 4
   },
   {
     "username": "Nosilil",
