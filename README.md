@@ -119,9 +119,10 @@
 
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
+| [tutorial_yarp-basics-ArekBerc](https://github.com/easy-peasy-robotics/tutorial_yarp-basics-ArekBerc) | :heavy_check_mark: | **1** |
 | [assignment_git-ArekBerc](https://github.com/easy-peasy-robotics/assignment_git-ArekBerc) | :heavy_check_mark: | **3** |
 
-![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-4-brightgreen.svg?style=flat-square)
 
 ---
 
