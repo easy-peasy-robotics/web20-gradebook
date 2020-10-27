@@ -204,11 +204,12 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_yarp-basics-khlee0697](https://github.com/easy-peasy-robotics/tutorial_yarp-basics-khlee0697) | :heavy_check_mark: | **1** |
 | [tutorial_gazebo-simple-model-khlee0697](https://github.com/easy-peasy-robotics/tutorial_gazebo-simple-model-khlee0697) | :heavy_check_mark: | **1** |
+| [tutorial_yarp-opencv-khlee0697](https://github.com/easy-peasy-robotics/tutorial_yarp-opencv-khlee0697) | :heavy_check_mark: | **1** |
 | [assignment_git-khlee0697](https://github.com/easy-peasy-robotics/assignment_git-khlee0697) | :heavy_check_mark: | **3** |
 | [assignment_yarp-find-rgb-khlee0697](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-khlee0697) | :x: | **0** |
 | [assignment_control-pid-khlee0697](https://github.com/easy-peasy-robotics/assignment_control-pid-khlee0697) | :x: | **0** |
 
-![total score](https://img.shields.io/badge/total_score-5-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
 
 ---
 
