@@ -96,6 +96,11 @@
         "name": "tutorial_yarp-basics-Nosilil",
         "status": ":heavy_check_mark:",
         "score": 1
+      },
+      {
+        "name": "tutorial_gazebo-simple-model-Nosilil",
+        "status": ":heavy_check_mark:",
+        "score": 1
       }
     ],
     "assignments": [
@@ -112,7 +117,7 @@
         "score": 15
       }
     ],
-    "score": 19
+    "score": 20
   },
   {
     "username": "Nesheit",
