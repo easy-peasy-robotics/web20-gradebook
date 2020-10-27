@@ -147,6 +147,7 @@
 | [tutorial_gazebo-simple-model-ArekBerc](https://github.com/easy-peasy-robotics/tutorial_gazebo-simple-model-ArekBerc) | :heavy_check_mark: | **1** |
 | [assignment_git-ArekBerc](https://github.com/easy-peasy-robotics/assignment_git-ArekBerc) | :heavy_check_mark: | **3** |
 | [assignment_yarp-find-rgb-ArekBerc](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-ArekBerc) | :heavy_check_mark: | **15** |
+| [assignment_control-pid-ArekBerc](https://github.com/easy-peasy-robotics/assignment_control-pid-ArekBerc) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-20-brightgreen.svg?style=flat-square)
 
