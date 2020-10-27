@@ -242,7 +242,7 @@
 | [assignment_git-francescosemeraro](https://github.com/easy-peasy-robotics/assignment_git-francescosemeraro) | :x: | **0** |
 | [assignment_yarp-find-rgb-francescosemeraro](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-francescosemeraro) | :x: | **0** |
 
-![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
 
 ---
 
