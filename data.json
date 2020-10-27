@@ -9,6 +9,11 @@
             "name": "tutorial_gazebo-simple-model",
             "url": "https://github.com/vvv-school/tutorial_gazebo-simple-model.git",
             "score": 1
+        },
+        {
+            "name": "tutorial_yarp-opencv",
+            "url": "https://github.com/vvv-school/tutorial_yarp-opencv.git",
+            "score": 1
         }        
     ],
     "assignments": [
@@ -26,6 +31,11 @@
             "name": "assignment_control-pid",
             "url": "https://github.com/vvv-school/assignment_control-pid.git",
             "score": 5
-        }        
+        },
+        {
+            "name": "assignment_model-alignment",
+            "url": "https://github.com/easy-peasy-robotics/model-alignment.git",
+            "score": 5
+        }
     ]
 }
