@@ -80,9 +80,9 @@
       },
       {
         "name": "assignment_control-pid-mett96",
-        "status": ":x:",
-        "last_commit_date": "2020-10-27 12:55:10 UTC",
-        "score": 5
+        "status": ":heavy_check_mark:",
+        "last_commit_date": "2020-10-27 21:51:04 UTC",
+        "score": 6
       },
       {
         "name": "assignment_model-alignment-mett96",
@@ -91,7 +91,7 @@
         "score": 5
       }
     ],
-    "score": 21
+    "score": 27
   },
   {
     "username": "wenxuanmou",
