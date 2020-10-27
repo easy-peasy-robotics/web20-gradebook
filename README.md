@@ -137,10 +137,11 @@
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
 | [tutorial_yarp-basics-ArekBerc](https://github.com/easy-peasy-robotics/tutorial_yarp-basics-ArekBerc) | :heavy_check_mark: | **1** |
+| [tutorial_gazebo-simple-model-ArekBerc](https://github.com/easy-peasy-robotics/tutorial_gazebo-simple-model-ArekBerc) | :heavy_check_mark: | **1** |
 | [assignment_git-ArekBerc](https://github.com/easy-peasy-robotics/assignment_git-ArekBerc) | :heavy_check_mark: | **3** |
 | [assignment_yarp-find-rgb-ArekBerc](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-ArekBerc) | :heavy_check_mark: | **10** |
 
-![total score](https://img.shields.io/badge/total_score-14-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-15-brightgreen.svg?style=flat-square)
 
 ---
 

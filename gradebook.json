@@ -277,6 +277,11 @@
         "name": "tutorial_yarp-basics-ArekBerc",
         "status": ":heavy_check_mark:",
         "score": 1
+      },
+      {
+        "name": "tutorial_gazebo-simple-model-ArekBerc",
+        "status": ":heavy_check_mark:",
+        "score": 1
       }
     ],
     "assignments": [
@@ -293,7 +298,7 @@
         "score": 10
       }
     ],
-    "score": 14
+    "score": 15
   },
   {
     "username": "albertoeto",
