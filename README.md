@@ -246,6 +246,7 @@
 | [assignment_git-francescosemeraro](https://github.com/easy-peasy-robotics/assignment_git-francescosemeraro) | :x: | **0** |
 | [assignment_yarp-find-rgb-francescosemeraro](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-francescosemeraro) | :x: | **0** |
 | [assignment_control-pid-francescosemeraro](https://github.com/easy-peasy-robotics/assignment_control-pid-francescosemeraro) | :x: | **0** |
+| [assignment_model-alignment-francescosemeraro](https://github.com/easy-peasy-robotics/assignment_model-alignment-francescosemeraro) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
 
