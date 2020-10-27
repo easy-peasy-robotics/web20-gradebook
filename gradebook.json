@@ -165,6 +165,11 @@
         "name": "tutorial_yarp-basics-Nesheit",
         "status": ":heavy_check_mark:",
         "score": 1
+      },
+      {
+        "name": "tutorial_yarp-opencv-Nesheit",
+        "status": ":heavy_check_mark:",
+        "score": 1
       }
     ],
     "assignments": [
@@ -187,7 +192,7 @@
         "score": 5
       }
     ],
-    "score": 4
+    "score": 5
   },
   {
     "username": "MSIhub",
