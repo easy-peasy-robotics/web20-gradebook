@@ -136,6 +136,10 @@
 
 ### [**abdelhakim96**](https://github.com/abdelhakim96) grade
 
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [assignment_control-pid-abdelhakim96](https://github.com/easy-peasy-robotics/assignment_control-pid-abdelhakim96) | :x: | **0** |
+
 ![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
