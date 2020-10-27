@@ -10,6 +10,7 @@
 | [assignment_git-igng](https://github.com/easy-peasy-robotics/assignment_git-igng) | :heavy_check_mark: | **3** |
 | [assignment_yarp-find-rgb-igng](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-igng) | :x: | **0** |
 | [assignment_control-pid-igng](https://github.com/easy-peasy-robotics/assignment_control-pid-igng) | :x: | **0** |
+| [assignment_model-alignment-igng](https://github.com/easy-peasy-robotics/assignment_model-alignment-igng) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
 
