@@ -226,13 +226,6 @@
 ---
 
 
-### [**AkashSingh123**](https://github.com/AkashSingh123) grade
-
-![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
-
----
-
-
 ### [**francescosemeraro**](https://github.com/francescosemeraro) grade
 
 | assignment | status | score |
