@@ -82,7 +82,6 @@
 | [tutorial_gazebo-simple-model-MSIhub](https://github.com/easy-peasy-robotics/tutorial_gazebo-simple-model-MSIhub) | :heavy_check_mark: | **1** |
 | [assignment_git-MSIhub](https://github.com/easy-peasy-robotics/assignment_git-MSIhub) | :heavy_check_mark: | **3** |
 | [assignment_yarp-find-rgb-MSIhub](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-MSIhub) | :x: | **0** |
-| [assignment_control-pid-MSIhub](https://github.com/easy-peasy-robotics/assignment_control-pid-MSIhub) | :heavy_check_mark: | **8** |
 
 ![total score](https://img.shields.io/badge/total_score-13-brightgreen.svg?style=flat-square)
 
@@ -241,7 +240,6 @@
 | [tutorial_gazebo-simple-model-francescosemeraro](https://github.com/easy-peasy-robotics/tutorial_gazebo-simple-model-francescosemeraro) | :heavy_check_mark: | **1** |
 | [assignment_git-francescosemeraro](https://github.com/easy-peasy-robotics/assignment_git-francescosemeraro) | :x: | **0** |
 | [assignment_yarp-find-rgb-francescosemeraro](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-francescosemeraro) | :x: | **0** |
-| [assignment_control-pid-francescosemeraro](https://github.com/easy-peasy-robotics/assignment_control-pid-francescosemeraro) | :heavy_check_mark: | **4** |
 
 ![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
 
