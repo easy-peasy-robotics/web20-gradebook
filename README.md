@@ -83,7 +83,7 @@
 | [assignment_git-MSIhub](https://github.com/easy-peasy-robotics/assignment_git-MSIhub) | :heavy_check_mark: | **3** |
 | [assignment_yarp-find-rgb-MSIhub](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-MSIhub) | :x: | **0** |
 
-![total score](https://img.shields.io/badge/total_score-13-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-5-brightgreen.svg?style=flat-square)
 
 ---
 
