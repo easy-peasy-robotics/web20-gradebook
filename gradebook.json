@@ -492,6 +492,12 @@
         "status": ":x:",
         "last_commit_date": "2020-10-27 11:14:58 UTC",
         "score": 5
+      },
+      {
+        "name": "assignment_model-alignment-albertoeto",
+        "status": ":x:",
+        "last_commit_date": "2020-10-27 16:18:40 UTC",
+        "score": 5
       }
     ],
     "score": 6
