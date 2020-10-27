@@ -22,11 +22,12 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_yarp-basics-mett96](https://github.com/easy-peasy-robotics/tutorial_yarp-basics-mett96) | :heavy_check_mark: | **1** |
 | [tutorial_gazebo-simple-model-mett96](https://github.com/easy-peasy-robotics/tutorial_gazebo-simple-model-mett96) | :heavy_check_mark: | **1** |
+| [tutorial_yarp-opencv-mett96](https://github.com/easy-peasy-robotics/tutorial_yarp-opencv-mett96) | :heavy_check_mark: | **1** |
 | [assignment_git-mett96](https://github.com/easy-peasy-robotics/assignment_git-mett96) | :heavy_check_mark: | **3** |
 | [assignment_yarp-find-rgb-mett96](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-mett96) | :heavy_check_mark: | **15** |
 | [assignment_control-pid-mett96](https://github.com/easy-peasy-robotics/assignment_control-pid-mett96) | :x: | **0** |
 
-![total score](https://img.shields.io/badge/total_score-20-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-21-brightgreen.svg?style=flat-square)
 
 ---
 
