@@ -27,8 +27,8 @@
       },
       {
         "name": "assignment_yarp-find-rgb-igng",
-        "status": ":x:",
-        "last_commit_date": "2020-10-27 15:41:31 UTC",
+        "status": ":heavy_check_mark:",
+        "last_commit_date": "2020-10-27 17:16:43 UTC",
         "score": 5
       },
       {
@@ -44,7 +44,7 @@
         "score": 5
       }
     ],
-    "score": 6
+    "score": 11
   },
   {
     "username": "mett96",
