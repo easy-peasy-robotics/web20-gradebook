@@ -125,6 +125,7 @@
 | [tutorial_gazebo-simple-model-claudioverardo](https://github.com/easy-peasy-robotics/tutorial_gazebo-simple-model-claudioverardo) | :heavy_check_mark: | **1** |
 | [assignment_git-claudioverardo](https://github.com/easy-peasy-robotics/assignment_git-claudioverardo) | :heavy_check_mark: | **3** |
 | [assignment_yarp-find-rgb-claudioverardo](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-claudioverardo) | :x: | **0** |
+| [assignment_control-pid-claudioverardo](https://github.com/easy-peasy-robotics/assignment_control-pid-claudioverardo) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-5-brightgreen.svg?style=flat-square)
 
