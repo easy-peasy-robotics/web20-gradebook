@@ -175,13 +175,6 @@
 ---
 
 
-### [**kevinklenmatira**](https://github.com/kevinklenmatira) grade
-
-![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
-
----
-
-
 ### [**lucarag**](https://github.com/lucarag) grade
 
 | assignment | status | score |
