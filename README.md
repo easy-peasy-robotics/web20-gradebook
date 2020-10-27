@@ -124,6 +124,7 @@
 | [assignment_git-MartinaRuocco](https://github.com/easy-peasy-robotics/assignment_git-MartinaRuocco) | :heavy_check_mark: | **3** |
 | [assignment_yarp-find-rgb-MartinaRuocco](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-MartinaRuocco) | :x: | **0** |
 | [assignment_control-pid-MartinaRuocco](https://github.com/easy-peasy-robotics/assignment_control-pid-MartinaRuocco) | :x: | **0** |
+| [assignment_model-alignment-MartinaRuocco](https://github.com/easy-peasy-robotics/assignment_model-alignment-MartinaRuocco) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
 
