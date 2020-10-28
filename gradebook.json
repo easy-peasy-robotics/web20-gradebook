@@ -341,8 +341,8 @@
       {
         "name": "assignment_yarp-find-rgb-MartinaRuocco",
         "status": ":heavy_check_mark:",
-        "last_commit_date": "2020-10-28 12:10:15 UTC",
-        "score": 10
+        "last_commit_date": "2020-10-28 12:26:11 UTC",
+        "score": 15
       },
       {
         "name": "assignment_control-pid-MartinaRuocco",
@@ -357,7 +357,7 @@
         "score": 5
       }
     ],
-    "score": 16
+    "score": 21
   },
   {
     "username": "claudioverardo",
