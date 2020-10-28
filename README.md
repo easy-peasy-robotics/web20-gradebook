@@ -61,9 +61,9 @@
 | [assignment_git-Nosilil](https://github.com/easy-peasy-robotics/assignment_git-Nosilil) | :heavy_check_mark: | **3** |
 | [assignment_yarp-find-rgb-Nosilil](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-Nosilil) | :heavy_check_mark: | **15** |
 | [assignment_control-pid-Nosilil](https://github.com/easy-peasy-robotics/assignment_control-pid-Nosilil) | :x: | **0** |
-| [assignment_model-alignment-Nosilil](https://github.com/easy-peasy-robotics/assignment_model-alignment-Nosilil) | :x: | **0** |
+| [assignment_model-alignment-Nosilil](https://github.com/easy-peasy-robotics/assignment_model-alignment-Nosilil) | :heavy_check_mark: | **33** |
 
-![total score](https://img.shields.io/badge/total_score-21-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-54-brightgreen.svg?style=flat-square)
 
 ---
 
