@@ -394,8 +394,8 @@
       {
         "name": "assignment_control-pid-claudioverardo",
         "status": ":heavy_check_mark:",
-        "last_commit_date": "2020-10-28 15:16:00 UTC",
-        "score": 22
+        "last_commit_date": "2020-10-28 15:45:27 UTC",
+        "score": 26
       },
       {
         "name": "assignment_model-alignment-claudioverardo",
@@ -404,7 +404,7 @@
         "score": 33
       }
     ],
-    "score": 76
+    "score": 80
   },
   {
     "username": "abdelhakim96",
