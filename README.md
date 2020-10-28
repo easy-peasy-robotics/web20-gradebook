@@ -204,10 +204,10 @@
 | [tutorial_yarp-opencv-lucarag](https://github.com/easy-peasy-robotics/tutorial_yarp-opencv-lucarag) | :heavy_check_mark: | **1** |
 | [assignment_git-lucarag](https://github.com/easy-peasy-robotics/assignment_git-lucarag) | :heavy_check_mark: | **3** |
 | [assignment_yarp-find-rgb-lucarag](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-lucarag) | :heavy_check_mark: | **15** |
-| [assignment_control-pid-lucarag](https://github.com/easy-peasy-robotics/assignment_control-pid-lucarag) | :x: | **0** |
+| [assignment_control-pid-lucarag](https://github.com/easy-peasy-robotics/assignment_control-pid-lucarag) | :heavy_check_mark: | **26** |
 | [assignment_model-alignment-lucarag](https://github.com/easy-peasy-robotics/assignment_model-alignment-lucarag) | :heavy_check_mark: | **33** |
 
-![total score](https://img.shields.io/badge/total_score-54-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-80-brightgreen.svg?style=flat-square)
 
 ---
 
