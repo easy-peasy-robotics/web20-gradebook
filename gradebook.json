@@ -305,12 +305,12 @@
       },
       {
         "name": "assignment_model-alignment-sigeek",
-        "status": ":x:",
-        "last_commit_date": "2020-10-28 12:08:47 UTC",
-        "score": 5
+        "status": ":heavy_check_mark:",
+        "last_commit_date": "2020-10-28 13:10:11 UTC",
+        "score": 33
       }
     ],
-    "score": 6
+    "score": 39
   },
   {
     "username": "MartinaRuocco",
