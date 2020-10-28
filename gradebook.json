@@ -127,9 +127,9 @@
       },
       {
         "name": "assignment_control-pid-wenxuanmou",
-        "status": ":x:",
-        "last_commit_date": "2020-10-27 11:15:39 UTC",
-        "score": 5
+        "status": ":heavy_check_mark:",
+        "last_commit_date": "2020-10-28 20:43:48 UTC",
+        "score": 26
       },
       {
         "name": "assignment_model-alignment-wenxuanmou",
@@ -138,7 +138,7 @@
         "score": 33
       }
     ],
-    "score": 54
+    "score": 80
   },
   {
     "username": "Nosilil",
