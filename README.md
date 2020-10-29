@@ -77,9 +77,9 @@
 | [assignment_git-Nesheit](https://github.com/easy-peasy-robotics/assignment_git-Nesheit) | :heavy_check_mark: | **3** |
 | [assignment_yarp-find-rgb-Nesheit](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-Nesheit) | :x: | **0** |
 | [assignment_control-pid-Nesheit](https://github.com/easy-peasy-robotics/assignment_control-pid-Nesheit) | :x: | **0** |
-| [assignment_model-alignment-Nesheit](https://github.com/easy-peasy-robotics/assignment_model-alignment-Nesheit) | :x: | **0** |
+| [assignment_model-alignment-Nesheit](https://github.com/easy-peasy-robotics/assignment_model-alignment-Nesheit) | :heavy_check_mark: | **33** |
 
-![total score](https://img.shields.io/badge/total_score-5-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-38-brightgreen.svg?style=flat-square)
 
 ---
 
