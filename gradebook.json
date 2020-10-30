@@ -500,9 +500,9 @@
       },
       {
         "name": "assignment_control-pid-albertoeto",
-        "status": ":x:",
-        "last_commit_date": "2020-10-27 11:14:58 UTC",
-        "score": 5
+        "status": ":heavy_check_mark:",
+        "last_commit_date": "2020-10-30 14:10:32 UTC",
+        "score": 22
       },
       {
         "name": "assignment_model-alignment-albertoeto",
@@ -511,7 +511,7 @@
         "score": 5
       }
     ],
-    "score": 6
+    "score": 28
   },
   {
     "username": "lucarag",
