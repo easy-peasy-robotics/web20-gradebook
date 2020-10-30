@@ -33,9 +33,9 @@
       },
       {
         "name": "assignment_control-pid-igng",
-        "status": ":x:",
-        "last_commit_date": "2020-10-27 22:05:53 UTC",
-        "score": 5
+        "status": ":heavy_check_mark:",
+        "last_commit_date": "2020-10-29 23:11:35 UTC",
+        "score": 18
       },
       {
         "name": "assignment_model-alignment-igng",
@@ -44,7 +44,7 @@
         "score": 33
       }
     ],
-    "score": 54
+    "score": 72
   },
   {
     "username": "mett96",
