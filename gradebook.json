@@ -299,9 +299,9 @@
       },
       {
         "name": "assignment_control-pid-sigeek",
-        "status": ":x:",
-        "last_commit_date": "2020-10-28 08:45:54 UTC",
-        "score": 5
+        "status": ":heavy_check_mark:",
+        "last_commit_date": "2020-11-01 07:58:00 UTC",
+        "score": 26
       },
       {
         "name": "assignment_model-alignment-sigeek",
@@ -310,7 +310,7 @@
         "score": 33
       }
     ],
-    "score": 39
+    "score": 65
   },
   {
     "username": "MartinaRuocco",
